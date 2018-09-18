@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["responsable.", "puntual.", "creativa.", "autodidacta.", "y autonoma."],
+      strings: ["innovadora.", "creativa.", "autodidacta.", "con iniciativa"],
       typeSpeed: 100,
       loop: true,
     });
